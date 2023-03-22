@@ -1,0 +1,67 @@
+.body { 
+    font-family: 'Lato'; 
+}
+.background-set {
+    background-color: #a9865a;
+    width: 60%;
+    margin: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+.background-game {
+    background-color: #ffffff;
+}
+
+.player1 {
+background-color: rgba(245, 242, 242, 0.663);
+		}
+
+.player2 {
+background-color: rgb(255, 255, 255);
+
+}
+
+.text-center {
+    margin-top: 30px;
+}
+.btn-new-game {
+
+
+}
+
+.btn-roll {
+    margin-right: 20px;
+}
+.btn-hold {
+    margin-left: 20px;
+}
+
+
+
+.player {
+    margin-bottom: 30px;
+
+}
+.player-name {
+    font-weight: bold;
+}
+.player-active {
+    background-color: #f7f7f7;
+}
+
+.circle-red {
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    background: rgb(255, 0, 0);
+}
+
+.circle-white {
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    background: rgb(255, 255, 255);
+}
